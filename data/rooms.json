@@ -1,0 +1,54 @@
+{
+  "standard-double": {
+    "titleKey": "Izby Štandard - dvojlôžkové",
+    "homeImage": "./images/sites/home/standard-double.jpg",
+    "availabilityIcon": "&#128719;",
+    "availability": 31,
+    "price": 50,
+    "amenities": ["wifi", "tv", "minibar", "balkón s ležadlom", "chladnička", "vaňa"],
+    "accommodationImages": [
+      "./images/sites/accomodation/standard_double_preview.jpg",
+      "./images/sites/accomodation/standard_double_preview2.jpg",
+      "./images/sites/accomodation/standard_double_preview3.jpg"
+    ]
+  },
+  "standard-single": {
+    "titleKey": "Izby Štandard - jednolôžkové",
+    "homeImage": "./images/sites/home/standard-single.jpg",
+    "availabilityIcon": "&#128719;",
+    "availability": 6,
+    "price": 40,
+    "amenities": ["wifi", "tv", "minibar"],
+    "accommodationImages": [
+      "./images/sites/accomodation/standard_single_preview.jpg",
+      "./images/sites/accomodation/standard_single_preview2.jpg",
+      "./images/sites/accomodation/standard_single_preview3.jpg"
+    ]
+  },
+  "lux-double": {
+    "titleKey": "Izby LUX - dvojlôžkové",
+    "homeImage": "./images/sites/home/lux-double.jpg",
+    "availabilityIcon": "&#9733;",
+    "availability": 6,
+    "price": 80,
+    "amenities": ["wifi", "tv", "minibar"],
+    "accommodationImages": [
+      "./images/sites/accomodation/lux_double_preview.jpg",
+      "./images/sites/accomodation/lux_double_preview2.jpg",
+      "./images/sites/accomodation/lux_double_preview3.jpg"
+    ]
+  },
+  "apartment": {
+    "titleKey": "Apartmány - dvojizbové",
+    "homeImage": "./images/sites/home/apartment.jpg",
+    "availabilityIcon": null,
+    "availability": 3,
+    "price": 100,
+    "amenities": ["wifi", "tv", "minibar"],
+    "accommodationImages": [
+      "./images/sites/accomodation/apartment_preview.jpg",
+      "./images/sites/accomodation/apartment_preview2.jpg",
+      "./images/sites/accomodation/apartment_preview.jpg"
+    ]
+  }
+}
